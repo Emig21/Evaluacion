@@ -22,7 +22,7 @@ body::before {
 }
 
 header {
-    background-image: url('img/cabecera.jpg');
+    /* background-image: url('img/cabecera.jpg'); */
     background-size: cover;
     background-position: center;
     padding: 20px;
